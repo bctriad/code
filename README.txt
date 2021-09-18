@@ -1,6 +1,6 @@
 Dataset Description:
 
-The Cognitive Triad Dataset (CTD) comprises 5886 messages, 580 from Beyond Blue 	personal stories, 600 from the Time-to-Change blog, and 4706 from Twitter. The data were manually labeled by skilled annotators. This data is divided into six categories: self-positive, world-positive, future-positive, self-negative, world-negative, and future-negative. The Cognitive Triad Dataset was evaluated on two subtasks: aspect detection and sentiment classification on given aspects. The dataset will aid in the comprehension of Beck’s Cognitive Triad Inventory (CTI) items in a person’s social media posts.
+The Cognitive Triad Dataset (CTD) comprises 5886 messages, 580 from Beyond Blue personal stories, 600 from the Time-to-Change blog, and 4706 from Twitter. The data were manually labeled by skilled annotators. This data is divided into six categories: self-positive, world-positive, future-positive, self-negative, world-negative, and future-negative. The Cognitive Triad Dataset was evaluated on two subtasks: aspect detection and sentiment classification on given aspects. The dataset will aid in the comprehension of Beck’s Cognitive Triad Inventory (CTI) items in a person’s social media posts.
 
 
 Ready-to-Use Models:
